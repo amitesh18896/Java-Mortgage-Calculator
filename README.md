@@ -21,4 +21,4 @@ Casting
 Numbers, Strings and Arrays
 
 
-Read input
+Read input.
